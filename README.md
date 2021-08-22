@@ -1,1 +1,0 @@
-# License_plate_recognition_system
